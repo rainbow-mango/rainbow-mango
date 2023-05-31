@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scarlet-iridescence
+- 👋 Hi, I’m @CrystalWisteria 
 - 👀 I’m interested in web design/development, html, css, programming
 - ⛏ current skills: html5 and css3 + svg
 - 🌱 I’m currently learning javascript, c# and python
