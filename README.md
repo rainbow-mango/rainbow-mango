@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rainbowmango
+- 👋 Hi, I’m @rainbow-mango
 - 👀 I’m interested in web design/webdev/gamedev
 - ⛏ current skills: html5 and css3 + svg, finished microsoft c# base tutorial
 - 🌱 I’m currently learning javascript, c# and python, hope to be a fullstack dev a day
